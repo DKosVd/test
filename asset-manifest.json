@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/test/static/css/main.4012dff8.chunk.css",
+    "main.js": "/test/static/js/main.f50a4b91.chunk.js",
+    "main.js.map": "/test/static/js/main.f50a4b91.chunk.js.map",
+    "runtime-main.js": "/test/static/js/runtime-main.2fd22a0e.js",
+    "runtime-main.js.map": "/test/static/js/runtime-main.2fd22a0e.js.map",
+    "static/js/2.7dca9fc0.chunk.js": "/test/static/js/2.7dca9fc0.chunk.js",
+    "static/js/2.7dca9fc0.chunk.js.map": "/test/static/js/2.7dca9fc0.chunk.js.map",
+    "index.html": "/test/index.html",
+    "static/css/main.4012dff8.chunk.css.map": "/test/static/css/main.4012dff8.chunk.css.map",
+    "static/js/2.7dca9fc0.chunk.js.LICENSE.txt": "/test/static/js/2.7dca9fc0.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/test/static/media/Cat.011194c1.png",
+    "static/media/index.css": "/test/static/media/Poppins-Regular.8081832f.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2fd22a0e.js",
+    "static/js/2.7dca9fc0.chunk.js",
+    "static/css/main.4012dff8.chunk.css",
+    "static/js/main.f50a4b91.chunk.js"
+  ]
+}
